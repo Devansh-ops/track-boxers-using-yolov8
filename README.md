@@ -43,7 +43,7 @@ Below are the code blocks used in this project:
 
 1. YOLOv8 Model Training:
    ```bash
-   !yolo task=detect mode=train model=yolov8x.pt data={dataset.location}/data.yaml epochs=25 imgsz=800 plots=True
+   !yolo task=detect mode=train model=yolov8n.pt data={dataset.location}/data.yaml epochs=25 imgsz=800 plots=True
    ```
 2. YOLOv8 Tracking and saving
 ```python
