@@ -2,6 +2,9 @@
 
 This project focuses on performing object detection and tracking specifically for boxers within a boxing ring in a video. The goal is to accurately detect boxers, track their movements, and visualize their trajectories using a YOLOv8-based model. The process involves several steps, including data preparation, model training, and trajectory plotting.
 
+## Output
+[Here](https://drive.google.com/drive/folders/10xLxepfW5XRJWUkmU1gBFb4vJVowXumV?usp=sharing) is the drive link for the results
+
 ## Prerequisites
 
 Before starting the project, ensure that you have the following:
